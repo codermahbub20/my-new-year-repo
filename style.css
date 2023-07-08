@@ -94,3 +94,40 @@ main{
     margin-right: 15px;
     color: #16D887;
 }
+.my-plan-heading{
+    color: var(--dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 100px;
+}
+.myplan-sub{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin-left: 320px; */
+    padding: 50px 170px 170px 170px;
+}
+.my-plan-icon{
+    width: 92.958px;
+    height: 92.958px;
+    align-items: center;
+    margin-left: 50px;
+}
+.my-plan-sub-heading{
+    color: var(--dark-01, #151414);
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.my-plan-description{
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 20px;
+}
